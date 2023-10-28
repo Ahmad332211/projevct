@@ -1,0 +1,479 @@
+*{
+    margin: 0px;
+}
+
+
+
+
+.yoyo{
+    width:100%;
+    height: 95px;
+    background-color: ffc814;
+    display: flex;
+    }
+    .yoyo2{
+padding-right: 50px;
+padding-left: 190px;
+
+    }
+.yoyoul li{
+display: inline;
+padding-left: 25px;
+color: white;
+}
+.yoyoul{
+padding-top: 30px;
+}
+.yoyo3{
+background-color:#e23530;
+color: white;
+width: 110px;
+height: 30px;
+border: none;
+border-radius: 20px;
+margin-top: 30px;
+margin-left: 95px;
+
+}
+.yoyoin{
+color: #fff; 
+text-decoration: none ;   
+}
+body{
+    font-family: 'Public Sans', sans-serif;
+    font-family: 'Rubik', sans-serif;   
+    background-color: #f6f6f6;  
+}
+
+
+
+.we-sing{
+background-image: url(../images/WhatsApp\ Image\ 2023-09-09\ at\ 6.48.38\ PM.jpeg);
+ background-size: cover;   
+background-repeat: no-repeat;
+background-position: center;
+width: 100%;
+height: 500px;
+display: flex;
+}
+.yoyo4{
+padding-top: 125px;
+font-size: 75px;
+color: white;    
+}
+.parent1{
+display: flex; 
+justify-content: space-evenly;
+/* background-color: silver; */
+width: 100%; 
+height: 600px;
+text-align: center;  
+}
+.parent2{
+    width: 350px;
+    height: 350px;
+    background-color: blue;
+    border-radius: 30px;
+
+}
+.parent3{
+    width: 350px;
+    height: 350px;
+    background-color:cyan ;
+    border-radius: 30px;
+}
+.parent4{
+    width: 350px;
+    height: 350px;
+    background-color:lightblue ;
+    border-radius: 30px;
+    
+}
+.YOYO99{
+text-align: center;
+color: blue;
+padding-top: 50px;
+padding-bottom: 50px;    
+}
+.yoyo100{
+width: 350px;
+height:350px;
+border-radius: 30px;
+padding-bottom: 15px;    
+}
+.YOYO150{
+color: blue;
+padding-bottom: 15px;    
+}
+.YOYO200{
+color: blue;
+padding-bottom: 15px;    
+}
+.yoyo61{
+background-color: red;
+color: white;
+border-radius: 20px;
+font-size: 26px;
+border: none;
+width: 250px;    
+}
+.yoyo77{
+    
+        width: 350px;
+        height:350px;
+        border-radius: 30px;
+    
+        padding-bottom: 20px ;    
+}
+.yoyo34{
+    color:blue;
+    padding-bottom: 20px ;
+}
+.yoyo22{
+    color: blue;
+    padding-bottom: 20px ;
+}
+.yoyo55{
+width: 350px;
+height: 350px;
+border-radius: 30px;
+color: blue;
+padding-bottom : 17px; 
+}
+.yoyo798789{
+    color: blue;
+    padding-bottom : 17px;
+}
+.yoyo11{
+    color: blue;
+    padding-bottom : 17px;   
+}    
+.yoyoparent{
+/* background-color: white; */
+background-image:url(../images/976f56e7-dc56-4e72-9179-7479526dac9d.jpg) ;
+width: 100%;
+height: 200px;
+background-repeat: no-repeat;
+background-size: cover;
+background-position: top;
+padding-bottom: 30px;   
+}
+.yoyo123{
+    text-align: center;
+    color: #428995;
+    padding-top: 60px;
+}
+.yoyoyoyo{
+color: #428995;
+text-align: center;
+padding-top: 30px;
+}
+.yoyo9987{
+color: #8dc540;
+text-align: center;   
+padding-top: 40px; 
+padding-bottom:30px ;
+}
+.yoyob{
+/* background-color: white; */
+width:100% ;
+height:850px ;
+}
+.yoyoab{
+width: 100%;
+height: 300px;
+/* background-color:black ; */
+justify-content: space-evenly ;
+display: flex;
+}
+.yoyoc1{
+height: 270px;
+width: 350px;
+background-color: #ab7d90;
+border-radius:20px ;
+margin-top: 10px;
+}
+.yoyoh{
+color:white ;
+padding: 10px;    
+}
+.yoyop{
+color:white;
+padding: 10px;    
+}
+.yoyoc2{
+height: 270px;
+width: 350px; 
+background-color: #8dc540;
+border-radius: 20px; 
+margin-top: 10px;  
+}
+.yoyoicon{
+ margin-top:5px ;
+color: white; 
+font-size: 40px; 
+height: 30px;
+padding: 10px;   
+}
+.yoyoicon1{
+color: white;
+font-size: 40px;
+padding: 10px;    
+}
+.yoyoh1{
+color: white; 
+padding: 10px;   
+}
+.yoyop1{      
+color: white;
+padding: 10px;    
+}
+.yoyoc3{
+ background-color: #eed793; 
+ width: 350px;
+ height: 270px;  
+ border-radius: 20px;
+ margin-top: 10px;
+}
+.yoyoicon2{
+    color: white;
+font-size: 40px;
+padding: 10px;
+}
+.yoyoh2{ 
+    color: white; 
+    padding: 10px;
+}
+.yoyop2{     
+    color: white;
+    padding: 10px;
+}
+.yoyoab1{
+width: 100%;
+height: 300px;
+/* background-color: silver; */
+display: flex;
+justify-content: space-evenly;
+}
+.yoyoc4{
+    height: 270px;
+    width: 350px;
+    background-color: #ec97b8;
+    border-radius:20px ;
+    margin-top: 10px;
+}
+.yoyoicon3{
+    color: white;
+    font-size: 40px;
+    padding: 10px;     
+
+}
+.yoyoh3{
+    color: white; 
+    padding: 10px;
+}
+.yoyop3{
+    color: white;
+    padding: 10px;
+}
+.yoyoc5{
+    height: 270px;
+    width: 350px;
+    background-color: #9dd3db;
+    border-radius:20px ;
+    margin-top: 10px;
+}
+.yoyoicon4{
+    color: white;
+    font-size: 40px;
+    padding: 10px;      
+}
+.yoyoh4{
+    color: white; 
+    padding: 10px;
+}
+.yoyop4{
+    padding: 10px;
+    color: white;
+}
+.yoyoc6{
+    height: 270px;
+    width: 350px;
+    background-color: #f6a6ff;
+    border-radius:20px ;
+    margin-top: 10px;
+}
+.yoyob1{
+background-color: #c43f98; 
+color: white;
+border:none ;
+border-radius: 40px;   
+margin-left: 500px;
+margin-top: 10px;
+font-size: 20px;
+height: 70px;
+width: 350px;
+padding-bottom: 10px;
+padding-top: 10px;
+}
+.yoyob3{
+width: 100%;
+height:800px ;
+background-image: url(../images/WhatsApp\ Image\ 2023-10-12\ at\ 3.24.07\ PM.jpeg);
+}
+.yoyodb{
+color: #428995;    
+text-align: center;
+padding-top: 75px;
+padding-bottom: 75px;
+}
+.yoyoab2{
+width: 100%;
+height: 300px ;
+display: flex;
+justify-content: space-evenly;
+}
+.yoyocdb1{
+border: solid #8dc540;  
+width: 250px;
+height: 250px;  
+margin-top: 20px;
+border-radius: 20px;
+}
+.yoyohdb1{
+color: #e47701; 
+font-size: 40px;   
+text-align: center;
+padding-top: 60px;
+}
+.yoyopdb1{
+font-size: 25px;   
+text-align: center;
+padding-top: 60px;
+color: #428995;
+padding-bottom:50px  ;
+}
+.yoyoabcd{
+/* background-color:white ;     */
+width: 100%;
+height: 700px;
+}
+.yoyoabc{
+background-color: #8dc540;    
+width: 1200px;
+height: 600px;
+margin: auto;
+margin-top: 80px;
+border-radius: 20px;
+padding-top: 60px;
+display: flex;
+}
+.yoyoback{
+color: white;
+padding-left: 40px ;
+}
+.yoyowwe{
+color: white; 
+padding-right: 40px;  
+padding-top: 40px; 
+padding-bottom: 40px;
+padding-left: 40px;
+}
+.yoyorb{
+width: 600px; 
+height: 600px;   
+background-color: #8dc540;
+border-radius: 20px;
+}
+.yoyoiii1{
+color: #fff;
+font-size: 30px;
+padding-left: 20px;
+padding-bottom: 10px;
+}
+.yoyorbb{
+border: 2px solid #fff; 
+color: #fff; 
+background-color: #8dc540;
+margin-top: 20px;
+padding: 20px;
+font-size: 20px;
+margin-left: 20px;
+border-radius: 30px;
+}
+.yoyopop{
+color: #428995;    
+padding-top: 10px;
+padding-left:40px ;
+font-size: 40px;
+}
+.yoyououo{
+    color: #428995;    
+    padding-top: 10px;
+    padding-left:40px ; 
+    font-size:20px  
+}
+.yoyoouou{
+color: #8dc540;    
+font-size: 100px;
+padding-left: 1100px;
+}
+.yoyoayou{
+color: #428995;   
+margin: auto; 
+width: 900px;
+font-size: 20px;
+padding-top: 20px;
+padding-bottom: 20px;
+}
+.yoyo3434{
+    color: #8dc540;    
+    font-size: 100px;
+    padding-left: 100px;
+    padding-bottom: 40px;  
+}
+.yoyogg{
+color: #fff;    
+width: 100%;
+height: 700px;
+}
+.yoyofast{
+background-image: url(../images/WhatsApp\ Image\ 2023-10-19\ at\ 4.02.54\ PM.jpeg);   
+background-position:center; 
+background-repeat: no-repeat;
+background-attachment: fixed;
+width: 60%;
+height: 300px;
+margin: auto;
+border-radius: 30px;
+padding: 80px;
+}
+.yoyoggg{
+color: #fff;
+text-align: center; 
+padding-top: 20px;
+}
+.yoyoyouu{
+    color: #fff;
+    text-align: center; 
+    padding-top: 20px;
+    font-size: 20px; 
+}
+.yoyoiiiiw{
+color: #fff; 
+background-color: red;
+font-size: 30px;   
+width: 250px;
+margin-left: 250px;
+border-radius: 20px;
+border: red;
+margin-top: 20px;
+}
+.yoyofinal{
+background-image: url(../images/WhatsApp\ Image\ 2023-10-21\ at\ 6.22.52\ PM.jpeg); 
+background-position:top; 
+background-repeat: no-repeat;  
+width: 100%; 
+height:300px  ;
+margin-top: 100px;
+}
